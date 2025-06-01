@@ -6,3 +6,18 @@ git status - what modifications have been done, which files have been deleted,wh
 In Git we first track the file and then add 
 
 Git commit -m "commit message"
+-m stands for message for commit 
+
+git add . - to add all the files in staging environment
+
+git checkout (git log commit - number) - to go to that branch 
+git checkout master - to go back to the master branch and to see all the branches
+
+git merge (branch name)
+git branch (branch name)
+git checkout (branch name) - to go into that branch 
+git checkout -b krish/mutiply - to switched to a new branch 
+
+touch .gitignore - use to not track the file in git 
+
+
