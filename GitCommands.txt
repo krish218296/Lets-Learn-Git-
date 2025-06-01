@@ -1,3 +1,8 @@
 First GIT 
 
 git init - to initialize git
+git status - what modifications have been done, which files have been deleted,which files have been changed. you can see all of it through git status command
+
+In Git we first track the file and then add 
+
+Git commit -m "commit message"
